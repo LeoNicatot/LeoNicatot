@@ -3,15 +3,10 @@
 - 👀 I’m interested in
 
   - Computer Science
-
     currently especially in Blockchain, Software Engineering and Programming Language Theory
-
   - Languages
-
   - Medicine
-
   - Social Science
-
   - and so on ...
 
 - 🌱 I’m currently learning 
