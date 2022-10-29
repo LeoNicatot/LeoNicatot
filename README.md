@@ -21,4 +21,4 @@
 
 - 📫 How to reach me
 
-  - e-mail: xiersh@smail.nju.edu.cn
+  - e-mail: xiersh@mail2.sysu.edu.cn
